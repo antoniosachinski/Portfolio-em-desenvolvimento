@@ -1,0 +1,81 @@
+/*----------corpo----------*/
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center;
+}
+
+/*----------cabeçalho----------*/
+header {
+  background-color: #333;
+  padding: 10px;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+/*----------seções----------*/
+section {
+  text-align: justify;
+  text-align-last: left;
+  padding: 40px 10%;
+}
+.titulo {
+  padding: 0px 30px 0px 30px;
+  color: white;
+  border-left: 4px solid #bbb;
+  padding-left: 10px;
+  font-size: 24px;
+}
+.paragrafo {
+  padding: 0px 30px 30px 30px;
+}
+
+/*----------projetos----------*/
+.projeto {
+  background-color: #444;
+  padding: 5px 0px 10px 5px;
+  margin: 20px;
+  border-radius: 3px;
+}
+.titulotitulo {
+  padding: 0px 5px 0px 30px;
+}
+
+/*----------contato----------*/
+.email, .telefone {
+  color: #bbb;
+  text-decoration: none;
+}
+.email:hover, .telefone:hover {
+  color: white;
+}
+#contatos {
+  padding: 0px 30px 0px 30px;
+}
+
+/*----------rodapé----------*/
+footer {
+  font-style: italic;
+  padding-bottom: 15px;
+  color: #bbb;
+}
+footer a {
+  color: #bbb;
+  text-decoration: none;
+}
+footer a:hover {
+  color: white;
+}
