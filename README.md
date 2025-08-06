@@ -9,6 +9,6 @@ Este é o código-fonte do meu portfólio pessoal, desenvolvido com **HTML**, **
 
 ## Contribuindo  
 
-Se você deseja contribuir para este repositório, fique à vontade para abrir uma pull request! Seja para corrigir erros, adicionar melhorias, ou resolver mais exercícios, todas as contribuições são bem-vindas.
+Se você deseja contribuir para este repositório, fique à vontade para abrir uma pull request! Seja para corrigir erros ou adicionar melhorias, todas as contribuições são bem-vindas.
 
 
